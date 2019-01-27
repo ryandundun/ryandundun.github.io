@@ -11,7 +11,7 @@
       "value": "#fff"
     },
     "shape": {
-      "type": "image",
+      "type": "circle",
       "stroke": {
         "width": 0,
         "color": "#000000"
@@ -20,7 +20,7 @@
         "nb_sides": 5
       },
       "image": {
-        "src": "money.jpg",
+        "src": "img/github.svg",
         "width": 100,
         "height": 100
       }
@@ -106,5 +106,13 @@
       }
     }
   },
-  "retina_detect": true
+  "retina_detect": true,
+  "config_demo": {
+      "hide_card": false,
+      "background_color": "#ff0011",
+      "background_image": "money.jpg",
+      "background_position": "50% 50%",
+      "background_repeat": "no-repeat",
+      "background_size": "cover"
+    }
 }
