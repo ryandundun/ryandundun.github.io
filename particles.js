@@ -30,7 +30,7 @@ var pJS = function(tag_id, params){
         value: '#fff'
       },
       shape: {
-        type: 'circle',
+        type: 'image',
         stroke: {
           width: 0,
           color: '#ff0000'
@@ -39,7 +39,7 @@ var pJS = function(tag_id, params){
           nb_sides: 5
         },
         image: {
-          src: '',
+          src: 'profilee.jpg',
           width: 100,
           height: 100
         }
