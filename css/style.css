@@ -262,7 +262,7 @@ body {
     -webkit-transform: scale(1);
     -ms-transform: scale(1);
     transform: scale(1);
-    background-image: url('../images/bg.jpg');
+    background-image: url('../images/bg.gif');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
